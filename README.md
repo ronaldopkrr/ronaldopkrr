@@ -7,4 +7,4 @@
 
 - ⚙️ I use daily: .java, .py, .c, .cpp and others
 - 🌍 I'm mostly active within the **Linux Community**
-- 💬 `ping` me about **linux**, **java**, **spring**, **development**, **cars**
+- 💬 `ping` me about **linux**, **java**, **C & c++**, **development**
